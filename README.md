@@ -2,6 +2,11 @@
 
 ![ORC Image](images/orc.jpeg)
 
+## 📄 Full Paper
+
+Read the full research report here:  
+[Detecting Odd Radio Circles with Siamese CNNs (PDF)](docs/Detecting_odd_radio_circles_with_Siamese_Convolutional_Neural_Networks.pdf)
+
 ## Overview
 
 This project investigates the use of **Siamese Convolutional Neural Networks (SNNs)** to identify and classify **Odd Radio Circles (ORCs)** — a newly discovered class of celestial radio objects. Given their rarity and morphological similarity to other radio sources like FRII galaxies, the study employs **few-shot learning** techniques to overcome data scarcity. The best results were achieved using a VGG-16 based SNN architecture, with promising classification accuracy even in low-data regimes.
